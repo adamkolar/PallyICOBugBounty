@@ -6,7 +6,7 @@
 
 ## Contracts
 
-[GoatseDapp.sol](./contracts/GoatseDapp.sol)
+[Crowdsale.sol](./contracts/Crowdsale.sol)
 
 ## Report
 
