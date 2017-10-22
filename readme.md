@@ -8,7 +8,7 @@
 
 [Crowdsale.sol](./contracts/Crowdsale.sol)
 
-## Report
+## Submission
 
 CalculateExcess function in the crowdsale contract contains error that allows buyer to exceed maxTokensRaised and maxPurchase
 When the contract is in the Tier 4 phase, purchase is limited in order to not exceed maxTokensRaised with this code:
